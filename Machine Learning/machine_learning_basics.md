@@ -24,3 +24,11 @@
   >This method sits between supervised and unsupervised learning. During training, it uses a smaller labeled data set to guide classification and feature extraction from a larger, unlabeled data
 * ### Reinforcement learning
   >Behavioral machine learning model that is similar to supervised learning, but the algorithm isn’t trained using sample data. This model learns as it goes by using trial and error. A sequence of successful outcomes will be reinforced to develop the best recommendation or policy for a given problem.
+
+## Learning objectives / Interview Questions
+1. Identify problems that can be solved with machine learning.
+2. Differentiate between supervised learning and unsupervised learning.
+3. Describe how model training and testing works.
+4. Describe commonly used algorithms including linear regression, logistic regression, and k-means.
+5. What are performance metrics in machine learning?
+6. List a few metrics to evaluate ML models in different applications based on two categories: Classification and Regression.
