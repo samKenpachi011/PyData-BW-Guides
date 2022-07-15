@@ -32,3 +32,4 @@
 4. Describe commonly used algorithms including linear regression, logistic regression, and k-means.
 5. What are performance metrics in machine learning?
 6. List a few metrics to evaluate ML models in different applications based on two categories: Classification and Regression.
+7. Evaluate the performance of a machine learning model using metrics.
